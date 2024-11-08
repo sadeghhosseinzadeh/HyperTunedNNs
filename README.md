@@ -1,4 +1,4 @@
-**Deep Learning Model Comparison**
+# **Deep Learning Model Comparison**
 This repository contains code comparing four deep learning models: MLP, RNN, LSTM, and GRU. We used these models to predict the average price of EUR/USD on a 4-hour chart.
 
 **Important Note**
