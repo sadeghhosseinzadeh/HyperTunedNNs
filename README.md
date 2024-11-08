@@ -4,7 +4,7 @@ This repository contains code comparing four deep learning models: MLP, RNN, LST
 **Important Note**
 The goal here is not to make accurate predictions, as this task requires extensive economic insights and much more data. Therefore, please do not use this code for trading in forex or other stocks.
 
-**Purpose**
+# Purpose
 The primary purpose of this code is to demonstrate how to tune deep learning models using Keras Tuner. I have included many variables to be tuned, which may not be necessary in every case. However, they are included here to illustrate the process of tuning various parameters.
 
 **Note**
